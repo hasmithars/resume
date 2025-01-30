@@ -12,6 +12,5 @@ contents:
     
   - title: Software
     description: "
-      ![QGIS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qgis/qgis-original.svg)
-      <img src="./assets/img/esri_logo.svg" alt="Esri logo" width="50" height="50">
+      <img src="./assets/img/esri_logo.svg" alt="Esri logo" title="This is the Esri logo" width="50" height="50">
     "
