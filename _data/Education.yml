@@ -4,12 +4,15 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Boston University, M.S. in Remote Sensing and Geospatial Sciences
     description:
-      - Insert text here
-      - Development of model calibration algorithm for cross-domain few-shot learning
+      - Advanced knowledge remote sensing (RS) and GIS including sensor systems, basic radiative transfer, cartographic projections and display, spatial databases, geospatial analysis and modeling.
+      - Coursework
+        - Multivariate Analysis for Geographers, Aquatic Optics & RS, Digital Image Processing, Remote Sensing of the Lower Atmosphere, Atmospheric Chemistry, Spatial Data Analysis
     grade: "**GPA**: `3.71/4`"
     date: Sept 2018 - May 2019
   - title: University of Petroleum and Energy Studies, B.Tech in Geo-informatics Engineering
     description:
-      - Insert text here
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
+      - Engineering course combining geosciences, cartography, geography and technology with an oil & gas specialization
+      - Coursework
+        - Core- Statistical Methods in Geosciences, Photogrammetry and Remote Sensing, Spatial Database Systems, Geophysical Data Acquisition, Spatial Data Analysis and Modelling, Geothermal Science
+        - Oil and Gas- Methods of Petroleum Exploration, Drilling Engineering, Basin Analysis, Thermodynamics, Fluid Mechanics
     date: Aug 2013 - Jun 2017
