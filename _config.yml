@@ -20,7 +20,7 @@ blog_url: homepage-url
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
 baseurl:
 # set baseurl as "/<repo-name>". ex) baseurl: /myresume
-baseurl: /myresume
+baseurl:
 exclude:
   - _posts/
   - resources/
