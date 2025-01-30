@@ -2,17 +2,14 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: Boston University, M.S. in Remote Sensing and Geospatial Sciences
     description:
-      - Design of a method to build a probabilistic generative model
+      - Insert text here
       - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+    grade: "**GPA**: `3.71/4`"
+    date: Sept 2018 - May 2019
+  - title: University of Petroleum and Energy Studies, B.Tech in Geo-informatics Engineering
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
+      - Insert text here
       - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+    date: Aug 2013 - Jun 2017
