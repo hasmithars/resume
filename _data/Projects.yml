@@ -8,7 +8,7 @@ contents:
       - Conducted post-flood change detection to assess recovery of agricultural land one month after the cyclone,
       - Achieved an overall accuracy of 92% for pre-flood area estimation and 82.4% for post-flood assessment.
       - "Technology Used: QGIS, Unix OS on SCC, Bash"
-    image: "(![]((https://hasmithars.github.io/repository/resume/assets/img/nebraska_with_legend.webp))"
+    image: "![Agriculture Image](https://raw.githubusercontent.com/hasmithars/resume/master/assets/img/nebraska_with_legend.webp)"
   - title: "Cyanobacterial Bloom Detection in Lake Erie"
     description: 
       - Used satellite remote sensing to detect and monitor the 2015 algal bloom in Lake Erie using MODIS imagery.
@@ -23,4 +23,4 @@ contents:
       - Allows dynamic adjustments of date, location, and cloud-cover parameters for real-time rendering.
       - Eliminates the need to download and adjust spectral bands, saving time and streamlining the process.
       - "Technology Used: Google Earth Engine, JavaScript"
-    image: "!([](/assets/img/gee_hyderabad.webp))"
+    image: "!([GEE Split Panel Image](https://raw.githubusercontent.com/hasmithars/resume/master/assets/img/gee_hyderabad.webp))"
