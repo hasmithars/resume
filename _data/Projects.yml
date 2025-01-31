@@ -8,7 +8,7 @@ contents:
       - Conducted post-flood change detection to assess recovery of agricultural land one month after the cyclone,
       - Achieved an overall accuracy of 92% for pre-flood area estimation and 82.4% for post-flood assessment.
       - "Technology Used: QGIS, Unix OS on SCC, Bash"
-    image: "/assets/img/nebraska_with_legend.webp"
+    image: "![](/assets/img/nebraska_with_legend.webp)"
   - title: "Cyanobacterial Bloom Detection in Lake Erie"
     description: 
       - Used satellite remote sensing to detect and monitor the 2015 algal bloom in Lake Erie using MODIS imagery.
@@ -16,11 +16,11 @@ contents:
       - Compared the severity of the 2015 bloom with that of 2018 by estimating affected areas and analyzing chlorophyll index thresholds across both years.
       - Evaluated differences in bloom detection technology between MODIS and MERIS imagery
       - "Technology Used: SeaDAS"
-    image: "/assets/img/cyanobacteria.webp"
+    image: "![]/assets/img/cyanobacteria.webp"
   - title: "Visualizing Landsat Imagery with a Split Panel ([Link to code](https://code.earthengine.google.com/c2f53a366521395d2007d7777789aca2))" 
     description: 
       - Simplified visualization of false-color composite imagery with a split panel display.
       - Allows dynamic adjustments of date, location, and cloud-cover parameters for real-time rendering.
       - Eliminates the need to download and adjust spectral bands, saving time and streamlining the process.
       - "Technology Used: Google Earth Engine, JavaScript"
-    image: "/assets/img/gee_hyderabad.webp"
+    image: "![](/assets/img/gee_hyderabad.webp)"
