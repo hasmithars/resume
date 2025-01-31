@@ -2,20 +2,24 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Change Detection and Analysis of Agricultural Lands Affected by the Nebraska Floods of 2019"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Estimated the area of agricultural land impacted by flooding in Omaha, Nebraska.
+      - Conducted post-flood change detection to assess recovery of agricultural land one month after the cyclone,
+      - Achieved an overall accuracy of 92% for pre-flood area estimation and 82.4% for post-flood assessment.
+      - "Technology Used: QGIS, Unix OS on SCC, Bash"
+    image: "/assets/img/nebraska_with_legend.png"
+  - title: "Cyanobacterial Bloom Detection in Lake Erie"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - Used satellite remote sensing to detect and monitor the 2015 algal bloom in Lake Erie using MODIS imagery.
+      - Correlated bloom progression with Sea Surface Temperatures, considering Microcystis growth conditions.
+      - Compared the severity of the 2015 bloom with that of 2018 by estimating affected areas and analyzing chlorophyll index thresholds across both years.
+      - Evaluated differences in bloom detection technology between MODIS and MERIS imagery
+      - "Technology Used: SeaDAS"
+    image: "/assets/img/cyanobacteria.png"
+  - title: "Visualizing Changes in Surface Water in Hyderabad, India ([https://code.earthengine.google.com/c2f53a366521395d2007d7777789aca2](https://code.earthengine.google.com/c2f53a366521395d2007d7777789aca2))" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Split panel visualization of before/after imagery in Hyderabad, India.
+      - Change date, location, and cloud-cover parameters for on-the-fly rendering.
+      - "Technology Used: Google Earth Engine, JavaScript"
+    image: "/assets/img/gee_hyderabad.png"
