@@ -28,7 +28,7 @@ contents:
       - _USGS Grant_
       - Lead researcher to develop an algorithm for automated mapping of 17 ecosystem types in the Peruvian Amazon in collaboration with scientists in Peru.
       - Designed an algorithm for extracting satellite imagery, deriving spatial-temporal metrics, performing image classification and assessing accuracy through a confusion matrix using Google Earth Engine.
-      - "![Peru Image](https://raw.githubusercontent.com/hasmithars/resume/master/assets/img/peru.webp)"
+    image: "![Peru Image](https://raw.githubusercontent.com/hasmithars/resume/master/assets/img/peru.webp)"
     date: Jul 2019 - Mar 2021
   - title: Schlumberger
     role: Intern
