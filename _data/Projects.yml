@@ -16,7 +16,7 @@ contents:
       - Compared the severity of the 2015 bloom with that of 2018 by estimating affected areas and analyzing chlorophyll index thresholds across both years.
       - Evaluated differences in bloom detection technology between MODIS and MERIS imagery
       - "Technology Used: SeaDAS"
-    image: "(![](https://github.com/hasmithars/resume/blob/master/assets/img/cyanobacteria.webp))"
+    image: "![Cyanobacteria Image](https://raw.githubusercontent.com/hasmithars/resume/master/assets/img/cyanobacteria.webp)"
   - title: "Visualizing Landsat Imagery with a Split Panel ([Link to code](https://code.earthengine.google.com/c2f53a366521395d2007d7777789aca2))" 
     description: 
       - Simplified visualization of false-color composite imagery with a split panel display.
