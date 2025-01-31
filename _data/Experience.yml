@@ -2,21 +2,36 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Satelytics
+    role: Project Scientist II
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - _Project Management_
+      - Managed 17 projects from inception to completion including onboarding clients, timeline management, deliverable, and feedback collection.
+      - Conducted regular client and stakeholder meetings, on a monthly/bimonthly basis, to provide progress updates and align on goals.
+      - Coordinated with image acquisition team to coordinate satellite data collection for 20+ project AOIs, including weekly tasking for certain projects.
+      - Collaborated with R&D team to design, interpret, and automate innovative algorithms energy, utilities, and pipeline sectors.
+      - Streamlined the sales-to-project management pipeline to ensure seamless transitions of roles and responsibilities.
+      - _Remote Sensing & GIS_
+      - Processed and analyzed satellite imagery for Land Use Land Change (LULC) using Worldview 3, Pleiades, and Planet imagery.
+      - Developed and automated an alert extraction process to calculate flow rates from methane rasters using wind and weather data, that was adopted by R&D for further implementation.
+      - Designed a GIS asset conflation solutionfor an Indiana-based client, resulting in a $60k follow-up project.
+      - _Training_
+      - Delivered 40+ three-hour training sessions on complex remote sensing and geospatial topics for diverse audiences, from clients to new hires.
+      - Created onboarding documents covering essential geospatial skills and software.
+    date: Apr 2021 - Ongoing
+  - title: Boston University
+    role: Research Assistant
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - _NASA ROSES Grant_
+      - Provided remote sensing and GIS support to a land cover land use change project comparing the effectiveness of conservation instruments in threatened forest habitat in the Colombian Andes.
+      - Collected over 8000 training data points and performed land cover/classification validation of over 600 land parcels.
+      - _USGS Grant_
+      - Lead researcher to develop an algorithm for automated mapping of 17 ecosystem types in the Peruvian Amazon in collaboration with scientists in Peru.
+      - Designed an algorithm for extracting satellite imagery, deriving spatial-temporal metrics, performing image classification and assessing accuracy through a confusion matrix using Google Earth Engine.
+    date: Jul 2019 - Mar 2021
+  - title: Schlumberger
+    role: Intern
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Created depth and geological prognosis reports for over 60 oil and gas wells for a deep gas unconventional reservoir project using Petrel.
+      - Assisted Well Site Geologist in a desert in Barmer and performed daily safety checks on the rig.
+    date: Mar 2018 - Jun 2018
