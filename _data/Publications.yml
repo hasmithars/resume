@@ -1,11 +1,11 @@
-subject: Publications
+subject: Presentations
 listing-order: 4
 icon: "/assets/img/flask.svg"
 contents:
-  - title: Journal
+  - title: Technical Presentations
     ref: 
-      - "[1] **M. Yankovich**, L. Hernández, M. Roveri, “[A symmetric encryption method with biometric authorization for constrained environments](https://scholar.google.com/),” *Cryptography*, vol. x, no. x, pp. xxx–xxx, 202x."
-      - "[2] **M. Yankovich**, F. Arute, G. Persiano, G. Segev, “[Authorized public-key search on iiot applications](https://scholar.google.com/),” *IEEE Transactions on Information Forensics and Security*, pp. xxx–xxx, 202x."
-  - title: Conference
+      - "[1] **Automated Mapping of Ecosystem Types in Disturbed Forests in the Peruvian Amazon** Poster presentation at AAG, Denver, CO Cancelled due to Covid)"
+      - "[2] **High-resolution Satellite Imagery to Accelerate Sustainability Goals into Action **, “[GIS Pro, Columbus, OH](https://gispro2023.sched.com/event/1NI5K/ai-knowledge-from-above)""
+  - title: Panel Moderator
     ref:
-      - "[3] I. Lebedev, **M. Yankovich**, L. Wang, G. Segev, “[Post-training of deep bidirectional transformers for language understanding](https://scholar.google.com/),” *in Proc. 99th Annu. Meeting Assoc. Comput. Linguistics*, pp. xxx–xxx, 202x."
+      - "[3] **The Importance of Mentoring** “[GIS Pro, Columbus, OH](https://gispro2023.sched.com/event/1NI6s/the-importance-of-mentoring)” "
