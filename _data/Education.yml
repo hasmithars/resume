@@ -5,14 +5,16 @@ contents:
   - title: Boston University, M.S. in Remote Sensing and Geospatial Sciences
     description:
       - Advanced knowledge remote sensing (RS) and GIS including sensor systems, basic radiative transfer, cartographic projections and display, spatial databases, geospatial analysis and modeling.
-      - Coursework
-        - Multivariate Analysis for Geographers, Aquatic Optics & RS, Digital Image Processing, Remote Sensing of the Lower Atmosphere, Atmospheric Chemistry, Spatial Data Analysis
+        - Coursework (_Core_) - Digital Image Processing, Remote Sensing (RS) of the Lower Atmosphere, Aquatic Optics & RS, Advanced Topics in RS
+        - Coursework (_Additional_) - Multivariate Analysis for Geographers, Spatial Data Analyis, Atmospheric Chemistry
     grade: "**GPA**: `3.71/4`"
     date: Sept 2018 - May 2019
   - title: University of Petroleum and Energy Studies, B.Tech in Geo-informatics Engineering
     description:
-      - Engineering course combining geosciences, cartography, geography and technology with an oil & gas specialization
+      - Engineering course combining geosciences, geography and technology with an oil & gas specialization
       - Coursework
-        - Core- Statistical Methods in Geosciences, Photogrammetry and Remote Sensing, Spatial Database Systems, Geophysical Data Acquisition, Spatial Data Analysis and Modelling, Geothermal Science
-        - Oil and Gas- Methods of Petroleum Exploration, Drilling Engineering, Basin Analysis, Thermodynamics, Fluid Mechanics
+        - _Remote Sensing and GIS_ - Photogrammetry, Spatial Data Analysis and Modelling, Advanced Remote Sensing
+        - _Earth Science_ - Geophysical Data Acquisition,  Geothermal Science, Rock Mechanics, Geotechnical Engg., Statistical Methods in Geosciences, Surveying & Planning
+        - _Oil and Gas_ - Methods of Petroleum Exploration, Drilling Engg., Basin Analysis, Thermodynamics, Fluid Mechanics, Formation & Well Logging
+        - _Engineering_ - C, C++, Database Management Systems, Engineering Drawing, Instrumentation & Control, Electrical Engg., 
     date: Aug 2013 - Jun 2017
