@@ -23,4 +23,4 @@ contents:
       - Allows dynamic adjustments of date, location, and cloud-cover parameters for real-time rendering.
       - Eliminates the need to download and adjust spectral bands, saving time and streamlining the process.
       - "Technology Used: Google Earth Engine, JavaScript"
-    image: "!([GEE Split Panel Image](https://raw.githubusercontent.com/hasmithars/resume/master/assets/img/gee_hyderabad.webp))"
+    image: "![GEE Split Panel Image](https://raw.githubusercontent.com/hasmithars/resume/master/assets/img/gee_hyderabad.webp)"
