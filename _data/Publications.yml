@@ -2,10 +2,8 @@ subject: Presentations
 listing-order: 4
 icon: "/assets/img/flask.svg"
 contents:
-  - title: Technical Presentations
-    ref: 
-      - **Automated Mapping of Ecosystem Types in Disturbed Forests in the Peruvian Amazon** Poster presentation at AAG, Denver, (CO Cancelled due to Covid)"
-      - **High-resolution Satellite Imagery to Accelerate Sustainability Goals into Action**, “[GIS Pro, Columbus, OH](https://gispro2023.sched.com/event/1NI5K/ai-knowledge-from-above)"
-  - title: Panel Moderator
-    ref:
-      - **The Importance of Mentoring** “[GIS Pro, Columbus, OH](https://gispro2023.sched.com/event/1NI6s/the-importance-of-mentoring)”
+  - title: "Automated Mapping of Ecosystem Types in Disturbed Forests in the Peruvian Amazon"
+    description:
+    - Poster presentation at AAG, Denver, CO
+    - Canceled due to Covid 19
+  - title: High-resolution Satellite Imagery to Accelerate Sustainability Goals into Action
