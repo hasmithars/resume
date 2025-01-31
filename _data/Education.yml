@@ -3,8 +3,6 @@ listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Boston University, M.S. in Remote Sensing and Geospatial Sciences
-    description:
-    - title: Coursework
     ref: 
       - Advanced knowledge Remote Sensing (RS) and GIS including sensor systems, basic radiative transfer, cartographic projections and display, spatial databases, geospatial analysis and modeling.
       - Coursework (_Core_) - Digital Image Processing, Remote Sensing (RS) of the Lower Atmosphere, Aquatic Optics & RS, Advanced Topics in RS.
