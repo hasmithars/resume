@@ -7,15 +7,15 @@ contents:
       - Advanced knowledge Remote Sensing (RS) and GIS including sensor systems, basic radiative transfer, cartographic projections and display, spatial databases, geospatial analysis and modeling.
       - Coursework (_Core_) - Digital Image Processing, Remote Sensing (RS) of the Lower Atmosphere, Aquatic Optics & RS, Advanced Topics in RS.
       - _Additional_ - Multivariate Analysis for Geographers, Spatial Data Analyis, Atmospheric Chemistry
-         - Coursework (_Core_):
-          - Digital Image Processing
-          - Remote Sensing (RS) of the Lower Atmosphere
-          - Aquatic Optics & RS
-          - Advanced Topics in RS
-      - _Additional_:
-          - Multivariate Analysis for Geographers
-          - Spatial Data Analysis
-          - Atmospheric Chemistry
+         + Coursework (_Core_):
+          + Digital Image Processing
+          + Remote Sensing (RS) of the Lower Atmosphere
+          + Aquatic Optics & RS
+          + Advanced Topics in RS
+      + _Additional_:
+          + Multivariate Analysis for Geographers
+          + Spatial Data Analysis
+          + Atmospheric Chemistry
     grade: "**GPA**: `3.71/4`"
     date: Sept 2018 - May 2019
   - title: University of Petroleum and Energy Studies, B.Tech in Geo-informatics Engineering
