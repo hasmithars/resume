@@ -5,13 +5,13 @@ contents:
   - title: Boston University, M.S. in Remote Sensing and Geospatial Sciences
     ref: 
       - Advanced knowledge Remote Sensing (RS) and GIS including sensor systems, basic radiative transfer, cartographic projections and display, spatial databases, geospatial analysis and modeling.
-      1. **Coursework (_Core_)** - Digital Image Processing, Remote Sensing (RS) of the Lower Atmosphere, Aquatic Optics & RS, Advanced Topics in RS.
-      2. **Coursework (_Additional_)** - Multivariate Analysis for Geographers, Spatial Data Analyis, Atmospheric Chemistry
+      - **Coursework (_Core_)** - Digital Image Processing, Remote Sensing (RS) of the Lower Atmosphere, Aquatic Optics & RS, Advanced Topics in RS.
+      - **Coursework (_Additional_)** - Multivariate Analysis for Geographers, Spatial Data Analyis, Atmospheric Chemistry
     grade: "**GPA**: `3.71/4`"
     date: Sept 2018 - May 2019
   - title: University of Petroleum and Energy Studies, B.Tech in Geo-informatics Engineering
     description:
-      - Engineering course combining geosciences, geography and technology with an oil & gas specialization
+      - Engineering course combining geosciences, geography and technology with an oil & gas specialization.
       - _Earth Science_ - Geophysical Data Acquisition,  Geothermal Science, Geotechnical Engg., Statistical Methods in Geosciences, Surveying & Planning
       - _Oil and Gas_ - Methods of Petroleum Exploration, Drilling Engg., Basin Analysis, Thermodynamics, Fluid Mechanics
       - _Engineering_ - C, C++, Database Management Systems, Engineering Drawing, Instrumentation & Control, Electrical Engg. 
