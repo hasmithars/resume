@@ -6,19 +6,20 @@ contents:
     role: Project Scientist II
     description:
       - _Project Management_
-      - Managed 17 projects from inception to completion including onboarding clients, timeline management, deliverable, and feedback collection.
-      - Conducted regular client and stakeholder meetings, on a monthly/bimonthly basis, to provide progress updates and align on goals.
-      - Coordinated with image acquisition team to coordinate satellite data collection for 20+ project AOIs, including weekly tasking for certain projects.
-      - Collaborated with R&D team to design, interpret, and automate innovative algorithms for energy, utilities, and pipeline sectors.
-      - Streamlined the sales-to-project management pipeline to ensure seamless transitions of roles and responsibilities.
+      - Led end-to-end delivery of 17 geospatial and remote sensing projects, overseeing client onboarding, project scoping, timeline management, deliverable tracking, and feedback integration.
+      - Facilitated regular stakeholder engagement through monthly and bi-monthly update meetings, ensuring alignment on KPIs and strategic objectives.
+      - Managed cross-functional coordination with the imagery acquisition team to support satellite tasking and data procurement for 20+ project AOIs, including continuous monitoring for time-sensitive operations.
+      - Partnered with R&D to conceptualize, prototype, and deploy custom geospatial algorithms tailored to the energy, utilities, and pipeline sectors, directly addressing client-specific challenges.
+      - Optimized the transition workflow between sales and project execution, improving cross-team communication and reducing onboarding time by streamlining responsibilities and documentation for the whole team.
       - _Remote Sensing & GIS_
-      - Processed and analyzed over 20 satellite imagery for Land Use Land Change (LULC) using Worldview 3, Pleiades, and Planet imagery.
-      - Developed and automated an alert extraction process to calculate flow rates from methane rasters using wind and weather data, that was adopted by R&D for further implementation.
-      - Designed a GIS asset conflation solution for an Indiana-based client, resulting in a $60k follow-up project.
-      - Implemented a new hierarchical structure in the GIS Relational Database Management System, enhancing efficiency in retrieving archival data.
+      - Designed an impervious surface mapping workflow with 95% accuracy using Python and Claude Sonnet, incorporating feature engineering of various spectral indices and prompt engineering for optimized AI interpretation of Pleiades imagery, supporting federally mandated utility reporting.
+      - Processed and analyzed high-resolution satellite imagery (WorldView-3, Pleiades, PlanetScope) for 30+ LULC assessments, applying advanced classification and change detection techniques.
+      - Developed an automated methane alert extraction pipeline that integrated atmospheric data to calculate flow rates—adopted by the R&D team for operational scaling.
+      - Engineered a GIS-based asset conflation workflow for a utility client in Indiana, directly leading to a $60K follow-on engagement.
+      - Re-architected the GIS relational database with a hierarchical structure, significantly improving data retrieval efficiency and archival access.
       - _Training_
-      - Delivered 40+ three-hour training sessions on complex remote sensing and geospatial topics for diverse audiences, from clients to new hires.
-      - Created over 20 onboarding documents covering essential geospatial skills and software, including creating project management and geospatial workflow flowcharts using MS Visio.
+      - Conducted over 40 technical training sessions (3+ hours each) on advanced geospatial and remote sensing workflows for audiences ranging from entry-level hires to external clients.
+      - Authored 20+ onboarding guides and SOPs, including detailed workflow diagrams using MS Visio, covering project management processes and geospatial analysis best practices.
     date: Apr 2021 - Ongoing
   - title: Boston University
     role: Research Assistant
@@ -27,7 +28,7 @@ contents:
       - Provided remote sensing and GIS support to a land cover land use change project comparing the effectiveness of conservation instruments in threatened forest habitat in the Colombian Andes.
       - Collected over 8000 training data points and performed land cover/classification validation of over 600 land parcels.
       - _USGS Grant_
-      - Lead researcher to develop an algorithm for automated mapping of 17 ecosystem types in the Peruvian Amazon in collaboration with scientists in Peru.
+      - Lead researcher to develop an algorithm for automated mapping of 17 ecosystem types in the Peruvian Amazon in collaboration with scientists at IIAP, Peru.
       - Designed an algorithm for extracting satellite imagery, deriving spatial-temporal metrics, performing image classification and assessing accuracy through a confusion matrix using Google Earth Engine.
     image: "![Peru Image](https://raw.githubusercontent.com/hasmithars/resume/master/assets/img/peru.webp)"
     date: Jul 2019 - Mar 2021
